@@ -26,6 +26,7 @@
   "files": [
     "fontfaceobserver.js",
     "fontfaceobserver.standalone.js",
+    "fontfaceobserver.standalone.es6.js",
     "src/*.js",
     "externs.js"
   ],
