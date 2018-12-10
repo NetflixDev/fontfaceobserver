@@ -30,6 +30,7 @@
     "src/*.js",
     "externs.js"
   ],
+  "module": "fontfaceobserver.standalone.es6.js",
   "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com/)",
   "license": "BSD-3-Clause",
   "dependencies": {},
